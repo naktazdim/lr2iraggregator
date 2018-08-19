@@ -1,0 +1,5 @@
+-e git+http://github.com/naktazdim/lr2irscraper.git#egg=lr2irscraper
+luigi
+numpy
+pandas
+requests

@@ -1,3 +1,7 @@
+***<u>このパッケージは開発を終了しました。代わりに[lr2ircrawler](https://github.com/naktazdim/lr2ircrawler)を使用してください。</u>***
+
+------
+
 [LR2IR (LunaticRave2 Internet Ranking)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi) からデータを収集する。
 
 # usage
